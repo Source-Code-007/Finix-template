@@ -1,4 +1,4 @@
-// Form validation
+// Form validation ---
 function formValidate(){
     let typeTheMoney = document.forms['bLoanForm']['typeTheMoney']
     let borrowing = document.forms['bLoanForm']['borrowing']
